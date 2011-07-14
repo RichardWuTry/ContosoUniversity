@@ -1,7 +1,0 @@
-E:\Doc.Develop\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
-E:\Doc.Develop\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
-E:\Doc.Develop\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
-E:\Doc.Develop\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
-E:\Doc.Develop\ContosoUniversity\ContosoUniversity\obj\Debug\ResolveAssemblyReference.cache
-E:\Doc.Develop\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
-E:\Doc.Develop\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
