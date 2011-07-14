@@ -1,6 +1,6 @@
 --ignore folder
-/bin/
-/obj/
+/ContosoUniversity/bin/
+/ContosoUniversity/obj/
 
 --not ignore
 
